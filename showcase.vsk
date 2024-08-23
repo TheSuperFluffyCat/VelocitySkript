@@ -1,0 +1,3 @@
+command /velocitycommand:
+	trigger:
+		send "&eMy own &lcommand &ewith Velocity Skript &1Y&2a&3y&e!" to player
